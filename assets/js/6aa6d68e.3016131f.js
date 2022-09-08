@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeta_vend_manifest=self.webpackChunkmeta_vend_manifest||[]).push([[276],{1836:e=>{e.exports=JSON.parse('{"permalink":"/Manifest/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
