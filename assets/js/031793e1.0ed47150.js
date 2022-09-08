@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeta_vend_manifest=self.webpackChunkmeta_vend_manifest||[]).push([[633],{2511:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/blog/tags/facebook","allTagsPath":"/blog/tags","count":1}')}}]);
